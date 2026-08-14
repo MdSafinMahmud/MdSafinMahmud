@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Safin Mahmud 👋
 
-<!--
-**MdSafinMahmud/MdSafinMahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student | Programmer | Learner**
 
-Here are some ideas to get you started:
+I'm currently learning and improving my programming skills through problem-solving, projects, and continuous practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+
+* C
+* C#
+* Python
+* Git & GitHub
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Competitive Programming
+  
+
+### 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Competitive Programming
+* C# & .NET
+* Software Development
+
+### 🔨 Projects
+
+* 🤖 **Aether** — A simple console-based chatbot built with C#
+* 💻 **C Programming Practice** — Collection of C programming problems and solutions
+* 🧩 **DSA Practice** — Data structures and algorithm implementations
+
+### 🎯 Goals
+
+* Improve problem-solving skills
+* Become strong in DSA
+* Build useful software projects
+* Explore Robotics & Software Development
+
+### 📊 GitHub Stats
+
+
+
+### 📫 Connect With Me
+
+* GitHub:https://github.com/MdSafinMahmud
+* LinkedIn:https://www.linkedin.com/in/msafinmahmud/
+* Facebook:https://www.facebook.com/m.safin.mahmud
+
+
+---
+
+⭐ Thanks for visiting my profile!
