@@ -1,13 +1,13 @@
 # Hi, I'm Safin Mahmud 👋
 
-💻 **Computer Science Student | Programmer | Learner**
+## ⚡Code • Create • Innovate
 
-I'm currently learning and improving my programming skills through problem-solving, projects, and continuous practice.
+Exploring the world of code, solving problems, building projects, and learning something new every day.
 
 ## 🚀 Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
@@ -21,13 +21,11 @@ I'm currently learning and improving my programming skills through problem-solvi
 * Software Development
 
 ### 🔨 Projects
-
-* 🤖 **Aether** — A simple console-based chatbot built with C#
-* 💻 **C Programming Practice** — Collection of C programming problems and solutions
-* 🧩 **DSA Practice** — Data structures and algorithm implementations
+* 🤖 [**Aether**](https://github.com/MdSafinMahmud/OOPs-by-CSharp/blob/main/Learn%20C%23%20Basic/Projects/Beginner/21_ChatBot.cs)— A simple console-based chatbot built with C#
+* 💻 [**C Programming Practice**](https://github.com/MdSafinMahmud/C-With-Me) — Collection of C programming problems and solutions
+* 🧩 [**DSA Practice**](https://github.com/MdSafinMahmud/DSA-With-ME) — Data structures and algorithm implementations
 
 ### 🎯 Goals
-
 * Improve problem-solving skills
 * Become strong in DSA
 * Build useful software projects
@@ -53,7 +51,5 @@ I'm currently learning and improving my programming skills through problem-solvi
   </a>
 </p>
 
-
 ---
-
-⭐ Thanks for visiting my profile!
+## 💡 Code. Learn. Build. Repeat.
