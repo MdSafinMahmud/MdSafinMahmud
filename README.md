@@ -4,17 +4,15 @@
 
 I'm currently learning and improving my programming skills through problem-solving, projects, and continuous practice.
 
-### 🚀 Skills & Technologies
+## 🚀 Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-* C
-* C#
-* Python
-* Git & GitHub
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Competitive Programming
-  
-
+---
 ### 📚 Currently Learning
 
 * Data Structures & Algorithms
@@ -36,15 +34,25 @@ I'm currently learning and improving my programming skills through problem-solvi
 * Build useful software projects
 * Explore Robotics & Software Development
 
-### 📊 GitHub Stats
-
-
-
-### 📫 Connect With Me
-
-* GitHub:https://github.com/MdSafinMahmud
-* LinkedIn:https://www.linkedin.com/in/msafinmahmud/
-* Facebook:https://www.facebook.com/m.safin.mahmud
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/MdSafinMahmud">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+  <a href="https://www.linkedin.com/in/msafinmahmud/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://www.facebook.com/m.safin.mahmud">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/>
+</a>
+  </a>
+  <a href="https://www.instagram.com/m.safin.mahmud/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+  <a href="mailto:m.safin.mahmud@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+</p>
 
 
 ---
