@@ -22,6 +22,7 @@ Exploring the world of code, solving problems, building projects, and learning s
 
 ### 🔨 Projects
 * 🤖 [**Aether**](https://github.com/MdSafinMahmud/OOPs-by-CSharp/blob/main/Learn%20C%23%20Basic/Projects/Beginner/21_ChatBot.cs)— A simple console-based chatbot built with C#
+* 🛒 [**Online Shopping Management System by C#**](https://github.com/MdSafinMahmud/OOPs-by-CSharp/blob/main/Learn%20C%23%20Basic/Projects/Beginner/21_ChatBot.cs(https://github.com/MdSafinMahmud/OOPs-by-CSharp/blob/main/OOP/Varsity%20Projects/OnlineShopingSystem.cs))— A simple Online Shopping Management System built with **C#**
 * 💻 [**C Programming Practice**](https://github.com/MdSafinMahmud/C-With-Me) — Collection of C programming problems and solutions
 * 🧩 [**DSA Practice**](https://github.com/MdSafinMahmud/DSA-With-ME) — Data structures and algorithm implementations
 
