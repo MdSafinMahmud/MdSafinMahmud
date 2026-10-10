@@ -15,7 +15,7 @@ Exploring the world of code, solving problems, building projects, and learning s
 ---
 ### 📚 Currently Learning
 
-* Data Structures & Algorithms by JAVA
+* Data Structures & Algorithms by PyThon
 * Object-Oriented Programming by JAVA
 * Competitive Programming
 * C# & .NET
